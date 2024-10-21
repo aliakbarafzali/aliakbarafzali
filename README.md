@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliakbarafzali
-- 👀 I’m interested in machine learning and data engineering
-- 🌱 I’m currently learning Python & Java Springboot
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning ReactJS & Java Springboot
 - 📫 How to reach me https://www.linkedin.com/in/ali-akbar-afzali/
 - ⚡ Fun fact: I'm a Taekwondo black belt
 
