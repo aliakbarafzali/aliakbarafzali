@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliakbarafzali
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning ReactJS & Java Springboot
+- 🌱 I’m currently learning Python & ReactJS
 - 📫 How to reach me https://www.linkedin.com/in/ali-akbar-afzali/
 - ⚡ Fun fact: I'm a Taekwondo black belt
 
